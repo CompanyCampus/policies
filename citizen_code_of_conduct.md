@@ -32,7 +32,7 @@ to the fullest extent, we want to know.
 ## 3. Expected Behavior
 
   * Participate in an authentic and active way. In doing so, you contribute to
-    the health and longevity of this Company Campus.
+    the health and longevity of Company Campus.
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration before conflict.
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
@@ -45,7 +45,7 @@ to the fullest extent, we want to know.
 
 Unacceptable behaviors include: intimidating, harassing, abusive,
 discriminatory, derogatory or demeaning speech or actions by any participant
-in our Company Campus online, at all related events and in one-on-one
+in Company Campus online, at all related events and in one-on-one
 communications carried out in the context of Company Campus business. Community
 event venues may be shared with members of the public; please be respectful to
 all patrons of these locations.
